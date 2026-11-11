@@ -1,0 +1,1 @@
+/*This is a program for a small student evaluation platform. basic python code.*/
